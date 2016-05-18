@@ -1,0 +1,27 @@
+.generale{
+  color: #8b008b;
+  margin-top: 80px;
+}
+
+body{
+  background-color: white;
+  background-image: url(pelicule.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h1{
+  font-style:Verdana,serif;
+  color: #8b008b;
+  text-align: center;
+ }
+ .entete{
+float: left;
+  }
+   .colones{
+text-align: center;
+margin-top: 90px;
+   }
+ .informations{
+text-align: center;
+ }
